@@ -1,0 +1,30 @@
+//Iniciar configuración de package.json
+npm init -y
+
+//Instalar express
+npm install express
+
+//Instalar nodemon
+Colocar: npm install nodemon
+
+//Ejecutar el serviddor
+verificar que esté en la carpeta Backend
+node src/index.js
+
+Abrir el servidor localhost:3000/users
+
+
+//Instalar Moongose
+npm install mongoose
+
+//Instalar cors
+npm install cors
+
+
+DESPLIEGUE EN HEROKU
+
+    1. Instalación
+        https://devcenter.heroku.com/articles/heroku-cli#download-and-install
+
+    2. Acceder a heroku
+        http://id.heroku.com/login
